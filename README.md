@@ -1,1 +1,1 @@
-# Super-market-billing-system
+# Super market billing App
